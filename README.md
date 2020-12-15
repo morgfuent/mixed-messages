@@ -1,10 +1,10 @@
-#Mixed Messages
+# Mixed Messages
 
-##Description
+## Description
 
 This program creates random messages when run on the terminal.
 
-##Technologies
+## Technologies
 
 * JavaScript
 * Node.js
